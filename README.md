@@ -1,2 +1,3 @@
-# three-typescript-vite-express
-ThreeJS boilerplate with Typescript, Vite and Express backend.
+# three-typescript-aecs
+
+A minimal untested archetypal ECS built on threejs
