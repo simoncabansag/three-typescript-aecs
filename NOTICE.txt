@@ -1,0 +1,6 @@
+Three Typescript AECS
+
+This work "perry.json", is adapted from "Perry the Platypus (rigged, low poly)" by (https://sketchfab.com/SDOAJ) used under (https://creativecommons.org/licenses/by/4.0/). "perry.json" is licensed under (https://creativecommons.org/licenses/by/4.0/) by simoncabansag
+
+This work contains adaptations from (https://github.com/simondevyoutube/Quick_3D_MMORPG) by 
+(https://github.com/simondevyoutube) used under MIT. This work is licensed under MIT by simoncabansag
